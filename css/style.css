@@ -7,3 +7,18 @@
 img {
     width: 100%;
 }
+
+body {
+    background-color:aqua;
+}
+  
+.container {
+    height: 50vh;
+    max-width: 50vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    background: #cfc;
+    margin: 25vh auto;
+}

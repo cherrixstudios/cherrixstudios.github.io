@@ -4,24 +4,16 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 100%;
-}
-
 img {
     width: 100%;
 }
 
 h1 {
-    text-align: center;
+    margin: 0 auto;
 }
 
 .main-nav {
     display: flex;
     list-style: none;
     justify-content: space-around;
-}
-
-footer {
-    text-align: center;
 }

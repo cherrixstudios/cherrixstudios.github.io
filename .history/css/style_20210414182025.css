@@ -4,24 +4,27 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 100%;
-}
-
 img {
     width: 100%;
 }
 
+body {
+    background: yellow;
+}
+
 h1 {
     text-align: center;
+    background-color: green;
 }
 
 .main-nav {
     display: flex;
     list-style: none;
     justify-content: space-around;
+    background-color: #adf;
 }
 
 footer {
+    background-color: blue;
     text-align: center;
 }

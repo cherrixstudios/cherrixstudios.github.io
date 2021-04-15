@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 100%;
-}
-
 img {
     width: 100%;
 }
@@ -20,8 +16,4 @@ h1 {
     display: flex;
     list-style: none;
     justify-content: space-around;
-}
-
-footer {
-    text-align: center;
 }

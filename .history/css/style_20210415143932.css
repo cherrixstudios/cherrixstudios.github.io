@@ -20,8 +20,18 @@ h1 {
     display: flex;
     list-style: none;
     justify-content: space-around;
+    background-color: #adf;
+}
+
+main {
+    background-color: pink;
+}
+
+.hero {
+    background-color: green; 
 }
 
 footer {
+    background-color: blue;
     text-align: center;
 }

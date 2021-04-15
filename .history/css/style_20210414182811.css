@@ -6,6 +6,7 @@
 
 body {
     width: 100%;
+    background: yellow;
 }
 
 img {
@@ -14,14 +15,21 @@ img {
 
 h1 {
     text-align: center;
+    background-color: green;
 }
 
 .main-nav {
     display: flex;
     list-style: none;
     justify-content: space-around;
+    background-color: #adf;
+}
+
+main {
+    background-color: pink;
 }
 
 footer {
+    background-color: blue;
     text-align: center;
 }

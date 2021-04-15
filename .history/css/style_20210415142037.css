@@ -6,22 +6,34 @@
 
 body {
     width: 100%;
+    background: yellow;
 }
 
 img {
-    width: 100%;
+    /* width: 100%; */
 }
 
 h1 {
     text-align: center;
+    background-color: green;
 }
 
 .main-nav {
     display: flex;
     list-style: none;
     justify-content: space-around;
+    background-color: #adf;
+}
+
+main {
+    background-color: pink;
+}
+
+.hero {
+    background-color: green; 
 }
 
 footer {
+    background-color: blue;
     text-align: center;
 }

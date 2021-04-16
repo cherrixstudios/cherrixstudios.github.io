@@ -25,3 +25,13 @@ h1 {
 footer {
     text-align: center;
 }
+
+/* -- SERVICES -- */
+.services {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.services section {
+    border: 1px solid black;
+}
